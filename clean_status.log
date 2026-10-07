@@ -1,0 +1,33 @@
+[INIT] Skrip ExtendScript v4 (Artboard 5200×2925 px, RGB, 300 ppi, EPS 10) dimulai...
+[INFO] Total File Input : 4 file SVG
+[INFO] File Di-skip     : 0 file (sudah ada di output)
+[INFO] File Diproses    : 4 file
+[PROCESSING 1/4] vector-studio-1791257303601.svg
+   -> Cleaned: 0 hidden items, 0 stray/empty paths.
+   -> Background lama SVG dibuang: 41 elemen.
+   -> Artboard di-set: 5200 × 2925 px (RGB, 300 ppi), Artwork di-scale proporsional di tengah.
+   -> Layer terstruktur: [Art Line] subjek utama, [Color] warna subjek, [Background] #C9D3CC 5200x2925.
+   -> Kebersihan Artboard: Area luar artboard dibersihkan/ter-crop rapi.
+   -> [SUCCESS] Tersimpan (.eps, .jpg): vector-studio-1791257303601
+[PROCESSING 2/4] vector-studio-1791257530414.svg
+   -> Cleaned: 0 hidden items, 0 stray/empty paths.
+   -> Background lama SVG dibuang: 43 elemen.
+   -> Artboard di-set: 5200 × 2925 px (RGB, 300 ppi), Artwork di-scale proporsional di tengah.
+   -> Layer terstruktur: [Art Line] subjek utama, [Color] warna subjek, [Background] #C9D3CC 5200x2925.
+   -> Kebersihan Artboard: Area luar artboard dibersihkan/ter-crop rapi.
+   -> [SUCCESS] Tersimpan (.eps, .jpg): vector-studio-1791257530414
+[PROCESSING 3/4] vector-studio-1791257544749.svg
+   -> Cleaned: 0 hidden items, 0 stray/empty paths.
+   -> Background lama SVG dibuang: 36 elemen.
+   -> Artboard di-set: 5200 × 2925 px (RGB, 300 ppi), Artwork di-scale proporsional di tengah.
+   -> Layer terstruktur: [Art Line] subjek utama, [Color] warna subjek, [Background] #C9D3CC 5200x2925.
+   -> Kebersihan Artboard: Area luar artboard dibersihkan/ter-crop rapi.
+   -> [SUCCESS] Tersimpan (.eps, .jpg): vector-studio-1791257544749
+[PROCESSING 4/4] vector-studio-1791257557153.svg
+   -> Cleaned: 0 hidden items, 0 stray/empty paths.
+   -> Background lama SVG dibuang: 138 elemen.
+   -> Artboard di-set: 5200 × 2925 px (RGB, 300 ppi), Artwork di-scale proporsional di tengah.
+   -> Layer terstruktur: [Art Line] subjek utama, [Color] warna subjek, [Background] #C9D3CC 5200x2925.
+   -> Kebersihan Artboard: Area luar artboard dibersihkan/ter-crop rapi.
+   -> [SUCCESS] Tersimpan (.eps, .jpg): vector-studio-1791257557153
+[COMPLETE] Pembersihan & Konversi Selesai!
